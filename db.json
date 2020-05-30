@@ -1,5 +1,11 @@
 {
-	id: 1,
-	title: "Apples,
-	completed: false
+  "posts": [
+    {
+      "id": 1,
+      "title": "apples"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
