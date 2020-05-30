@@ -3,7 +3,12 @@
     {
       "id": 1,
       "title": "apples",
-      "completed": false
+      "completed": false,
+    },
+    {
+      "id": 2,
+      "title": "oranges",
+      "completed": false,
     }
   ],
   "profile": {
